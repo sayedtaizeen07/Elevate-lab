@@ -1,0 +1,50 @@
+AdventureWorks Sales Dashboard
+
+Overview
+The AdventureWorks Sales Dashboard offers a detailed overview of key sales metrics for the AdventureWorks bike and accessory business. It visualizes essential performance indicators including revenue, profits, order volume, return rates, top-performing products, and category-level breakdowns.
+This dashboard empowers sales and marketing teams to make data-driven decisions by monitoring product performance, customer behavior, and financial health.
+
+Key Metrics Displayed
+Metric	Value	Notes
+Revenue	$24.9M	Total revenue generated
+Profits	₹10.46M	Net profit earned
+Orders	25.16K	Total customer orders
+Return Rate	2.2%	Percentage of products returned
+
+Dashboard Components
+1. Weekly Revenue Trend
+Time-series line chart displaying weekly revenue trends from mid-2020 to 2022.
+Highlights seasonal or strategic revenue growth.
+
+2. Category by Orders
+Bar chart showing order distribution across:
+Accessories (17.0K)
+Bikes (13.9K)
+Clothing (7.0K)
+
+3. Top 10 Products
+Table showcasing:
+Product name
+Total orders
+Revenue generated
+Return rate
+Highlights high-performing and problematic products.
+
+4. Monthly Metrics
+Metric	Current	Previous Month	Change
+Revenue	$1.83M	₹1.77M	+3.31%
+Orders	2.15K	2.17K	-0.88%
+Returns	166	169	+1.78%
+5. Product Type Insights
+Most Ordered Product Type: Tires and Tubes
+Most Returned Product Type: Shorts
+
+Insights
+Growth: Revenue shows a strong upward trend from mid-2021 onward.
+Returns: A low return rate (2.2%) suggests effective quality and customer satisfaction.
+Top Product: Water Bottle - 30 oz. leads in order volume.
+High Returns: Helmets (especially red and blue variants) have the highest return rates (~3.3%).
+
+Tools & Technologies
+Visualization Tool: Power BI / Tableau (based on implementation)
+Data Source: Sales and order data from the AdventureWorks dataset
